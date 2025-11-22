@@ -1,1 +1,3 @@
 # text-mining
+
+This project contains a complete text mining workflow focused on extracting, cleaning, and analyzing textual information from multiple PDF documents, beginning with loading and preprocessing text using tokenization, stop-word removal, and normalization techniques; it then constructs a Term-Document Matrix using TF‑IDF weighting, generates visualizations such as word clouds and bar charts to highlight the most significant terms, and performs frequency analyses across predefined thematic dimensions and maturity model levels, ultimately providing insights into patterns, terminology prominence, and conceptual emphasis within the collected documents.
